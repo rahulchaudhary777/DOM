@@ -1,0 +1,23 @@
+Attributes:
+-------------
+          1. attributes :- show all linked attributes.
+          2. getAttributes("attribute name") :- get value of spcific attribute.
+          3. setAttributes("attribute name", "attribute value") :- set value of spcific attribute.
+
+
+Class :-
+----------
+
+    -->  Tags :-  (h1, p, link, img etc.)
+
+         1. tag.classList :- show all classes of anchor tages.
+         2. tag.classList.add("className") :- add that class in given tag 
+         3. tag.classList.remove("className") :- remove that class in given tag
+
+
+
+QuerySelector :-
+-----------------
+
+         1. querySelector("tag or tag list{like -> ul li a} or className or idName") :- select that query if that query present multiple times in program then select only first-one.
+         2. querySelector("tag or tag list{like -> ul li a} or className or idName") :- select all query and you can choose anyone from that using indexing.
