@@ -21,3 +21,8 @@ QuerySelector :-
 
          1. querySelector("tag or tag list{like -> ul li a} or className or idName") :- select that query if that query present multiple times in program then select only first-one.
          2. querySelector("tag or tag list{like -> ul li a} or className or idName") :- select all query and you can choose anyone from that using indexing.
+
+this :- 
+---------
+        1. It is used to get element which is click or trigerred
+        EX :- if we do any activity on any element then it returns the full name of that element (like :- <h1 class="header">TEXT</h1>)
