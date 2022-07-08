@@ -78,6 +78,7 @@ function buttonAnimation(currentKey){
     )
 }
 
+//--------------------------------------------------------------------------------------------------------
 /* Named Function
 for (let i = 0; i < btn.length; i++) {
     btn[i].addEventListener("click", handleClick); 
